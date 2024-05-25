@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FadedEchoes
 - 👀 I’m interested in music, art and coding
-- 🌱 I’m currently learning coding in C
+- 🌱 I’m currently learning coding in Python
 - 📫 How to reach me https://twitter.com/Music1Echoes
 
 <!---
